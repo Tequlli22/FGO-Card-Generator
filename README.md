@@ -10,9 +10,6 @@ meguerreroa's generator can be found [here](https://meguerreroa.github.io/FGO-Ca
 Aister's generator could be found [here](https://aister.github.io/FGO/fgo.html), but the link is broken now.
 juncaixinchi's Original generator can be found [here](https://juncaixinchi.github.io/FGO/fgo.html)
 
-Original source code can be found [here](https://github.com/juncaixinchi/FGO)
-
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset = "utf-8">

@@ -2,8 +2,8 @@
 Posiada wszsytkie dostępne klasy bez złotej bestji! 
 
 ## Czym jest?
-Jes to stworzony generator kart serventów z Fate Grand Order,
-specialnie dla potrzeb mapy minecraft RP dla Extell Grand Order.
+Jes to stworzony generator kart serventów z Fate Grand Order, specialnie dla potrzeb mapy minecraft RP dla Extell Grand Order.
+
 Znajdziesz te mape na serverze DarkSaidCraft.pl
 
 Po więcej informacji udaj się na strone internetową [link](https://sites.google.com/view/extell-grandorder-wiki/strona-g%C5%82%C3%B3wna)

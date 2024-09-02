@@ -222,7 +222,7 @@
             "shielder":  [ 213, 750 ],
             "avenger":   [ 213, 752 ],
  	    "mooncancer":   [ 213, 752 ],
-	    "alterego":   [ 211, 753 ],
+	    "alterego":   [ 213, 752 ],
             "beast":     [ 213, 752 ],
             "all":       [ 213, 752 ],
             "none":      [ 213, 752 ],
@@ -230,7 +230,7 @@
 
           preLoadImg(img_logo.src);
           img_logo.onload = function () {
-            content.drawImage(img_logo,...icon_pos[Hero_class],76,76);
+            content.drawImage(img_logo,...icon_pos[Hero_class],80,80);
             Hero_class = Hero_class.slice(0, 1).toUpperCase() + Hero_class.slice(1);
             Hero_class = document.getElementById("Hero_subname").value || Hero_class;
             put_text(canvas, content, Hero_class, Hero_name, false);

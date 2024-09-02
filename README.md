@@ -1,5 +1,5 @@
-## [Completed Card Generator](https://tequlli22.github.io/FGO-Card-Generator/fgo.html)
-Posiada wszsytkie dostępne klasy bez złotej bestji! 
+## [Generator Kart Bohaterów](https://tequlli22.github.io/FGO-Card-Generator/fgo.html)
+Wygeneruj swojego włąsnego bohatera!
 
 ## Czym jest?
 Jes to stworzony generator kart serventów z Fate Grand Order, specialnie dla potrzeb mapy minecraft RP dla Extell Grand Order.
